@@ -6,7 +6,7 @@
 
 **วิธีเปิดโปรเจค**
 1. copy folder project ไปวางไว้ที่ >>>>  C:\xampp\htdocs
-2.เข้า chrome แล้วพิมพ์ localhost/ตามด้วยชื่อโฟล์เดอร์โปรเจคเรา เช่น localhost/projectTest แล้วกด Enter
+2. เข้า chrome แล้วพิมพ์ localhost/ตามด้วยชื่อโฟล์เดอร์โปรเจคเรา เช่น localhost/projectTest แล้วกด Enter
 
 **วิธีเข้าดู source code**
  หลังจากนั้นพิมพ์ cmd ที่ช่อง file path แล้วกด Enter   
